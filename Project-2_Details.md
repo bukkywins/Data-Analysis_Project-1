@@ -54,6 +54,12 @@ Drop Column "F1", "User ID", "URL"</i>
 ![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-2_SQL_15.png "SQL Image")
 
 
+I also checked the <b>content table</b> for blank or null records, but found none.
+
+
+##
+
+
 
 
 
