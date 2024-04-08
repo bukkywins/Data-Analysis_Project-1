@@ -11,3 +11,7 @@ Finally, I used the clean data to answer the client's business question by deriv
 [SQL FILES](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/assets/SQLQuerySB.sql) USED FOR THE PROJECT WORK
 
 ## IMPORTING RAW DATASETS INTO SQL SERVER MANAGEMENT STUDIO
+
+I started by importing the raw datasets into SQL  Server Management Studio
+
+
