@@ -14,5 +14,15 @@ Finally, I used the clean data to answer the client's business question by deriv
 
 I started by importing the raw datasets into SQL  Server Management Studio
 
+![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-1_Excel1.png "SQL Image")
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-1_Excel2.png "SQL Image")
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-1_Excel3.png "SQL Image")
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-1_Excel4.png "SQL Image")
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-1_Excel5.png "SQL Image")
+
 
 
