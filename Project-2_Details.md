@@ -26,6 +26,14 @@ I started by importing the raw datasets into SQL  Server Management Studio
 
 ![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-2_SQL_6.png "SQL Image")
 
+![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-2_SQL_7.png "SQL Image")
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-2_SQL_8.png "SQL Image")
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-2_SQL_9.png "SQL Image")
+
+
+
 
 
 
