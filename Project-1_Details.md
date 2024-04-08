@@ -13,13 +13,15 @@ On studying the data model, I realized that only three of the datasets are requi
 ![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Data-Model.jpeg "The Data Model")
 
 ### Cleaning the datasets
-To clean the dataset, I started to remove the columns which are not needed to answer the business question from each table. In the content table, I removed the USER ID and URL columns
+To clean the dataset, I started to remove the columns which are not needed to answer the business question from each table. In the content table, I removed the USER ID and URL columns.
 
 ![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel1.png "The Content Table")
-The content table contained records with quotation marks in the category column. I had to clean the records by using the find and replace feature to remove the quotation marks
+The <b>Content table</b> contained records with quotation marks in the category column. I had to clean the records by using the find and replace feature in excel to remove the quotation marks. The Content table had no blank records.
 
 ![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel2.png "The Content Table")
 
 ![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel3.png "The Content Table")
+
+I followed the same process for the <b>reactions table</b>. The <b>Reactions table</b> contained some null /blank records in the Reaction type column. I removed this using the filter to remove the blank records
 
 
