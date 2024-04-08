@@ -34,11 +34,22 @@ Using <b>Reaction table</b> as the base table, I used the vlookup function  to m
 ![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel8.png "The Content Table")
 https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel8.png
 
-## Using the "IFERROR" Function to trap errors:
-I utilized the iferror funnction to capture errors and populated the remaining records.
+
+## Using the "IFERROR" function to trap errors:
+
+I utilized the iferror function to capture errors and populated the remaining records.
 
 ![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel9.png "The Content Table")
 
 ![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel10.png "The Content Table")
+
+
+## SELECTING THE DISTINCT Category Records for analysis:
+
+I copied the category column to a new spreadheet to remove duplicate records:
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel11.png "The Content Table")
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel12.png "The Content Table")
 
 
