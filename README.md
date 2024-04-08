@@ -3,4 +3,4 @@ In this project, a popular social media company who were considering doing an IP
 
 I started with cleaning the data and merged them to prepare the data for analysis
 
-Finally, I used the clean data to answer the client's question by deriving the top five content categories. I used Microsoft Excel as the primary tool for cleaning, modelling and analysing the data 
+Finally, I used the clean data to answer the client's business question by deriving the top five content categories. I used Microsoft Excel as the primary tool for cleaning, modelling and analysing the data 
