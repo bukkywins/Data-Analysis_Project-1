@@ -28,11 +28,12 @@ I followed the same process for the <b>reactions table</b>. The <b>Reactions tab
 
 ![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel7b.png "The Content Table")
 
+
 ## Using "VLOOKUP", TO merge the tables:
+
 Using <b>Reaction table</b> as the base table, I used the vlookup function  to merge the relevant columns from the content and rection types tables.
 
 ![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel8.png "The Content Table")
-https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel8.png
 
 
 ## Using the "IFERROR" function to trap errors:
