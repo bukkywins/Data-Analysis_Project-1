@@ -53,4 +53,30 @@ I copied the category column to a new spreadheet to remove duplicate records:
 
 ![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel12.png "The Content Table")
 
+## USING THE "SUMIF" function to calculate the sum of scores:
+
+Each Reaction type record has weighted score for each category. In order to determine the top five content category, I calculated the aggregate scores for each category. I used the SUMIF fuction to derive a calculated column for the total scores for each category.
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel11.png "The Content Table")
+
+
+## Identifying the Top Five Content Category:
+
+To answer the client's business question, I sorted the category in the descending order of total scores:
+
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel14.png "The Content Table")
+
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel15.png "The Content Table")
+
+
+## Extracting the final results for the client:
+
+I then copied the final result showing the TOP FIVE CATEGORIES into a different work sheet:
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel16.png "The Content Table")
+
+
+
 
