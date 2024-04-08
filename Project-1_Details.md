@@ -10,5 +10,13 @@ On studying the data model, I realized that only three of the datasets are requi
 </OL>
 
 
-![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Data-Model.jpeg "Logo Title Text 1")
+![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Data-Model.jpeg "The Data Model")
+
+### Cleaning the datasets
+To clean the dataset, I started to remove the columns which are not needed to answer the business question from each table. In the content table, I removed the USER ID and URL columns
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel1.png "The Content Table")
+
+
+
 
