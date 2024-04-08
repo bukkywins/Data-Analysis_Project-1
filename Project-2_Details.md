@@ -15,3 +15,4 @@ Finally, I used the clean data to answer the client's business question by deriv
 I started by importing the raw datasets into SQL  Server Management Studio
 
 
+
