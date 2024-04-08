@@ -1,4 +1,4 @@
-# Data-Analysis Projects
+# Data Analysis Projects
 
 Below are the different projects which  I have done in data analysis:
 
