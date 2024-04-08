@@ -2,4 +2,4 @@
 
 # Data Model Provided
 
-![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Project-1_Excel1.png "Logo Title Text 1")
+![alt text](https://github.com/bukkywins/Data-Analysis_Project-1/blob/main/images/Data-Model.jpeg"Logo Title Text 1")
