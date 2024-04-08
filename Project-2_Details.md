@@ -8,4 +8,4 @@ I started with cleaning the data and merged them to prepare the data for analysi
 
 Finally, I used the clean data to answer the client's business question by deriving the top five content categories. I used SQL as the primary tool for cleaning, modelling and analysing the data.
 
-## [SQL FILES](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/assets/SQLQuerySB.sql) USED FOR THE PROJECT WORK
+[SQL FILES](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/assets/SQLQuerySB.sql) USED FOR THE PROJECT WORK
