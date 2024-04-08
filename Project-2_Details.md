@@ -40,9 +40,19 @@ I renamed the tables using more friendly names using the syntax below:
 sp_rename 'dbo.Reactions$', Reactions</br>
 sp_rename 'dbo.ReactionTypes$', ReactionTypes</i>
 
+I dropped the columns that are needed for the business question using the sql syntax below:
+
+<i>Alter Table Content</br>
+Drop Column "F1", "User ID", "URL"</i>
+
 ![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-2_SQL_10.png "SQL Image")
 
-![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-2_SQL_12.png "SQL Image")
+## CLEANING THE CONTENT TABLE: REMOVING QUOTATION MARKS FROM THE CATEGORY COLUMN 
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-2_SQL_14.png "SQL Image")
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-2_SQL_15.png "SQL Image")
+
 
 
 
