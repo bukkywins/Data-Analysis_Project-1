@@ -32,6 +32,26 @@ I started by importing the raw datasets into SQL  Server Management Studio
 
 ![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-2_SQL_9.png "SQL Image")
 
+## RENAMING THE TABLES AND DROPING IRRELEVANT COLUMNS
+
+I renamed the tables using more friendly names using the syntax below:
+
+<i>sp_rename 'dbo.Content$', Content</br>
+sp_rename 'dbo.Reactions$', Reactions</br>
+sp_rename 'dbo.ReactionTypes$', ReactionTypes</i>
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-2_SQL_10.png "SQL Image")
+
+![alt text](https://github.com/bukkywins/Data-Analysis_Projects/blob/main/images/Project-2_SQL_12.png "SQL Image")
+
+
+
+
+
+
+
+
+
 
 
 
